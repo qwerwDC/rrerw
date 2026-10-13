@@ -1,0 +1,12 @@
+{
+  "name": "vexcloud-pro",
+  "version": "3.0.0",
+  "description": "VEXCLOUD 3.0 PRO — 24/7 Autonomous AI Browser with Multi-API Key Rotation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}
