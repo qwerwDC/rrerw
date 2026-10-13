@@ -1,0 +1,12 @@
+{
+  "name": "vexcloud-pro",
+  "version": "3.0.1",
+  "description": "VEXCLOUD 3.0 PRO — 24/7 Autonomous AI Browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
